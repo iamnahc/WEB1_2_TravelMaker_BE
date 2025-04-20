@@ -2,8 +2,30 @@
      alt="WAYFARER ICON" 
      style="width: 100%; height: auto;">
 
-## 🛠 기술스택
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/> 
+# 데브코스 2회차 4팀 최종 프로젝트
+[<img width="50" alt="notion" src="https://github.com/user-attachments/assets/a016430b-e6b0-4594-8a80-ff84c932e64d">](https://www.notion.so/prgrms/44a38f6f064f40bbaca1bce6d7658407?pvs=4)
+<br/>
+↗ **WEB1_2_TravelMaker Notion Link**
+
+***
+
+## 💻 FE_Team
+|👑방정배|👨🏻‍💻전나영|👨🏻‍💻김현빈|
+|:---:|:---:|:---:|
+|TeamLeader & Git_Admin|Developer|Developer|
+|[jeongbaebang](https://github.com/jeongbaebang)|[jny4867](https://github.com/jny4867)|[hyunbin78](https://github.com/hyunbin78)
+|![](https://avatars.githubusercontent.com/u/57677452?v=4)|![](https://avatars.githubusercontent.com/u/147975027?v=4)|![](https://avatars.githubusercontent.com/u/101693956?v=4)|
+
+## 💻 BE_Team
+|👑허찬솔|📝박현우|👨🏻‍💻김세현|👨🏻‍💻임현규|👨🏻‍💻이용민|
+|:---:|:---:|:---:|:---:|:---:|
+|TeamLeader|PM & AWS_Admin|Git_Admin|Developer|Developer|
+|[iamnahc](https://github.com/iamnahc)|[ObjectGipi](https://github.com/ObjectGipi)|[chadoli27](https://github.com/chadoli27)|[LimHyeonGyu](https://github.com/LimHyeonGyu)|[lǐ_róng_mín](https://github.com/Yi-YongMin)|
+|![](https://avatars.githubusercontent.com/u/90306923?v=4)|![](https://avatars.githubusercontent.com/u/177755524?v=4)|![](https://avatars.githubusercontent.com/u/148460430?v=4)|![](https://avatars.githubusercontent.com/u/90891022?v=4)|![](https://avatars.githubusercontent.com/u/96493001?v=4)|
+
+## 🛠 기술스택(추후 추가 예정)
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 ***
 
 # 1. 프로젝트 개요
